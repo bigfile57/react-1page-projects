@@ -1,0 +1,2 @@
+rm public/logo512.png public/robots.txt public/manifest.json public/favicon.ico public/logo192.png 
+rm src/App.test.js src/logo.svg src/reportWebVitals.js src/setupTests.js

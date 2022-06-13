@@ -1,0 +1,8 @@
+#folder
+node_modules
+scripts/flow/*/.flowconfig
+.flowconfig
+#file
+*.zip
+*.DS_Store
+gitmemo.md
